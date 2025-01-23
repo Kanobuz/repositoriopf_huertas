@@ -27,6 +27,7 @@ public class ProyectoFinal {
         pagoTotal = sueldoMensual + comision;
         
         // Salida de datos
+        System.out.println("============== Resultados ==============");
         System.out.println("La comision de la venta es    : " + comision);
         System.out.println("El sueldo neto del vendedor es: " + pagoTotal);
     }
